@@ -1,0 +1,3 @@
+Cursor blinks at three
+one log line says nothing new
+the bug was the clock
